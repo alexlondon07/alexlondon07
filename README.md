@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![alexlondon07 - Fullstack Developer](https://alexlondon07.github.io/images/pexels-photo.jpg)](https://alexlondon07.github.io/)
+[![alexlondon07 - Fullstack Developer](https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
 
 🥑👨🏼‍💻 Fullstack Developer. Passionate about technology, code and coffee.☕ JAVA/Spring/Spring Boot/PHP/Laravel/JavaScript/Angular/NodeJS/Always learning
