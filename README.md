@@ -34,4 +34,4 @@ Software engineer. I love to develop new projects based on web and mobile techno
 <code><img height="35" src="https://ugeek.github.io/blog/images-blog/git.png"></code>
 <code><img height="35" src="https://raminahmadi.com/wp-content/uploads/2017/10/frontHeader.png"></code>
 
-![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=alexlondon07&show_icons=true&hide_border=true)
+![Alexander github stats](https://github-readme-stats.vercel.app/api?username=alexlondon07&show_icons=true&hide_border=true)
