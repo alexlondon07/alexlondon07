@@ -8,13 +8,10 @@
 
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Fullstack Developer. Passionate about technology, code and coffee.☕ JAVA/Spring/Spring Boot/PHP/Laravel/JavaScript/Angular/NodeJS/Always learning
-
 Software engineer. I love to develop new projects based on web and mobile technologies, always making sure of using the good practices while coding. I am a full stack developer
 
-- 🔭 I’m currently working on Angular and Spring Boot
-- 🌱 I’m currently learning Flutter...
+- 🔭 I’m currently working on Angular and Spring Boot, Docker, Azure Devops
+- 🌱 I’m currently learning Flutter, AWS, Clean architecture in Spring Booot ...
 
 
 **Languages and Tools:**  
