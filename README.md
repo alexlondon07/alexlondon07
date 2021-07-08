@@ -1,5 +1,8 @@
 
-¡Hey 👋! I´m Alexander 👨🏻‍💻
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/5550470?v=4" />
+   <h3 align="center">¡Hey 👋! I´m Alexander 👨🏻‍�👨🏻‍💻</h3>
+</p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alexlondon07)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderlondono1/)
@@ -17,8 +20,6 @@ Software engineer. I love to develop new projects based on web and mobile techno
 
 **Languages and Tools:**  
 
-<code><img height="35" src="https://alexlondon07.github.io/images/iconos/iconos-visual-studio-code.png"></code>
-<code><img height="35" src="https://alexlondon07.github.io/images/iconos/iconos-html5.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></code>
 <code><img height="35" src="https://alexlondon07.github.io/images/iconos/iconos-Post.png"></code>
