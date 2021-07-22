@@ -12,7 +12,7 @@
 
  <img width="55%" align="right" alt="Github" src="https://github.com/alexlondon07/alexlondon07.github.io/blob/9bf9ff328457d34d1cb28b47a17df5f19cc3f569/images/portfolio/code.gif?raw=true" />
   
-Software engineer. I love to develop new projects based on web and mobile technologies, always making sure of using the good practices while coding. I am a full stack developer
+Software engineer. I love to develop new projects based on web technologies, always making sure of using the good practices while coding.
 
 - 🔭 I’m currently working on Angular and Spring Boot, Docker, Azure Devops
 - 🌱 I’m currently learning Flutter, AWS, Clean architecture in Spring Booot ...
