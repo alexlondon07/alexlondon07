@@ -33,6 +33,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=orange)
 ![PHP](https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=PHP&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4479A1?style=flat-square&logo=JavaScript&logoColor=yellow)
+![AWS](https://img.shields.io/badge/Aws-4479A1?style=flat-square&logo=Aws&logoColor=yellow)
 
 ### ⚙️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
